@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @slima77
+- 👀 I’m interested in blockchain development.
+- 🌱 I’m currently learning javascript.
+- 💞️ I’m looking to collaborate on crypto curreny projects.
